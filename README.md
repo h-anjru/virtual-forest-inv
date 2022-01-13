@@ -34,7 +34,7 @@ into the folder containing your stems needs to have a different extension.
 Now you will begin interacting with the stem files, one by one. Follow the 
 prompts in the command window. 
 
-![The first window will be an oblique view of the text file which represents the area around the tree stem. In this example, "tree02.txt" was created by manually clipping a tree from a point cloud using CloudCompare.](figures/01_low.png)
+![The first window will be an oblique view of the text file which represents the area around the tree stem. In this example, "tree02.txt" was created by manually clipping a tree from a point cloud using CloudCompare.](figures/01_low.PNG)
 
 *The first window will be an oblique view of the text file which represents the area around the tree stem. In this example, "tree02.txt" was created by manually clipping a tree from a point cloud using CloudCompare.*
 
@@ -55,7 +55,7 @@ Click/hold and drag a box across the plot to select which points belong to the
 stem. You can repeat this process if you draw a bad box; the app will ask you
 if you want to keep it (answer y or n).
 
-![After entering the "low" height, a window will pop up showing a "slice" of the point cloud at height 0.4 m above ground. (Note that the input "tree02.txt" is normalized to ground level.)](figures/02_low_select.png)
+![After entering the "low" height, a window will pop up showing a "slice" of the point cloud at height 0.4 m above ground. (Note that the input "tree02.txt" is normalized to ground level.)](figures/02_low_select.PNG)
 
 *After entering the "low" height, a window will pop up showing a "slice" of the point cloud at height 0.4 m above ground. (Note that the input "tree02.txt" is normalized to ground level.*
 ```
@@ -80,7 +80,7 @@ You can inspect the fitted cylinder on the plot. If you want to keep it, well,
 you can keep it. If not, you can give a new outlier percentage (or the same 
 percentage) and refit.
 
-![Oblique view of the fitted cylinder presented for inspection.](figures/03_low_accept.png)
+![Oblique view of the fitted cylinder presented for inspection.](figures/03_low_accept.PNG)
 
 *Oblique view of the fitted cylinder presented for inspection.*
 ```
