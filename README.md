@@ -142,4 +142,6 @@ Taper high 4: -8.7 cm/m
 
 ## Special thanks
 
+RANSAC sylinder fitting code courtesy of:
+
 > Smith, I. (2002b). LSGE lscylinder. NPL Centre for Mathematics and Scientific Computing.
